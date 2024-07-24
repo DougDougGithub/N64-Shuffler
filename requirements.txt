@@ -1,0 +1,9 @@
+keyboard==0.13.5
+mutagen==1.46.0
+obs_websocket_py==1.0
+PyAudio==0.2.14
+pydub==0.25.1
+pygame==2.3.0
+pygame_ce==2.3.0
+rich==13.7.1
+soundfile==0.12.1

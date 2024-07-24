@@ -5,7 +5,7 @@ Written by DougDoug. Feel free to use this for whatever you want! Credit is appr
 DISCLAIMER: This code has nothing to do with any Nintendo games or properties or programs. There are no Nintendo assets or property in this project whatesoever. It is simply code that presses keys to randomly save and load save states.
 If you want to use this for N64 games, you will need to find your own legal version of an N64 game and an N64 emulator.
 
-Also, this is not amazing code, the multi-threading is pretty messy but whatever fuck it it works.
+Also, this is not amazing code, the multi-threading is pretty messy but whatever fuck it it works. I won't be reviewing pull requests but feel free to fork the project and use it for whatever you want.
 
 ## SETUP:
 1) This was written in Python 3.9.2. Install page here: https://www.python.org/downloads/release/python-392/
